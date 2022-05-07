@@ -1,0 +1,9 @@
+C:\Users\percy\source\repos\Data\bin\Debug\Data.dll
+C:\Users\percy\source\repos\Data\bin\Debug\Data.pdb
+C:\Users\percy\source\repos\Data\bin\Debug\Entity.dll
+C:\Users\percy\source\repos\Data\bin\Debug\Entity.pdb
+C:\Users\percy\source\repos\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\percy\source\repos\Data\obj\Debug\Data.dll
+C:\Users\percy\source\repos\Data\obj\Debug\Data.pdb

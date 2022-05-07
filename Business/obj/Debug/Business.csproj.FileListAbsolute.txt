@@ -1,0 +1,11 @@
+C:\Users\percy\source\repos\Business\bin\Debug\Business.dll
+C:\Users\percy\source\repos\Business\bin\Debug\Business.pdb
+C:\Users\percy\source\repos\Business\bin\Debug\Data.dll
+C:\Users\percy\source\repos\Business\bin\Debug\Entity.dll
+C:\Users\percy\source\repos\Business\bin\Debug\Data.pdb
+C:\Users\percy\source\repos\Business\bin\Debug\Entity.pdb
+C:\Users\percy\source\repos\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\percy\source\repos\Business\obj\Debug\Business.dll
+C:\Users\percy\source\repos\Business\obj\Debug\Business.pdb
